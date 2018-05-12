@@ -1,0 +1,27 @@
+_repo: Danza-mac-bra_42253
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42253-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Antona-Traversi, Camillo
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '41597'
+    url: http://www.gutenberg.org/2009/agents/41597
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2013-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42253'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian drama'
+title: Danza macàbra
+url: http://www.gutenberg.org/ebooks/42253
